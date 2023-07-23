@@ -1,7 +1,6 @@
 [![MasterHead](https://img.freepik.com/free-vector/machine-learning-banner-artificial-intelligence_107791-611.jpg?w=2000)]
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A passionate student</h3>
-img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"
 
 
 - 🔭 I’m currently working on **Speech recognition using AI**
