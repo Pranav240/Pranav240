@@ -3,9 +3,9 @@
 <h3 align="center">A passionate student</h3>
 
 
-- 🔭 I’m currently working on **Speech recognition using AI**
+- 🔭 I’m currently working on **GEN AI**
 
-- 🌱 I’m currently learning **Building Mavhine Learning models**
+- 🌱 I’m currently learning **Building Machine Learning and generative AI models**
 
 - 👨‍💻 All of my projects are available at [https://www.canva.com/design/DAFpJQY9c6w/b0viquubPe8vU48aU9MfbQ/view?utm_content=DAFpJQY9c6w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFpJQY9c6w/b0viquubPe8vU48aU9MfbQ/view?utm_content=DAFpJQY9c6w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
