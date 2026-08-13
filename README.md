@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A passionate student</h3>
 
-- 🔭 I’m currently working on **GEN AI**
+- 🔭 Currently working on Wi-Fi intrusion detection using noise-robust ML (research paper under review)
 
-- 🌱 I’m currently learning **Building Machine Learning and generative AI models**
+- 🌱 Building expertise in RAG systems, LLM applications, and applied ML for security
 
 - 👨‍💻 Some of my featured projects:
   - [AI-Powered-ADGM-Legal-Document-Verifier](https://github.com/Pranav240/AI-Powered-ADGM-Legal-Document-Verifier)
