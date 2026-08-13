@@ -1,6 +1,5 @@
 [![MasterHead](https://img.freepik.com/free-vector/machine-learning-banner-artificial-intelligence_107791-611.jpg?w=2000)]
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">A passionate student</h3>
 
 - 🔭 Currently working on Wi-Fi intrusion detection using noise-robust ML (research paper under review)
 
