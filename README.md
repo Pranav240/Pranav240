@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/Pranav240/Pranav240/main/machinelearningpic.png" alt="Pranav Thota" width="100%"/></p>
+
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <p align="center">AI / ML engineer in Bengaluru · M.Tech, PES University (2026)</p>
 
